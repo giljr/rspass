@@ -22,7 +22,7 @@ A simple web application that allows you to uunderstand and overwrite login func
 
 - Installation on vscode
 - cloning rspass - Mini-Login-Logout-forgotPassword-app 
-- Features of v.2.0 : vscode complete working code, Admin Dashboard, and more...
+- Features of v.1.0 : vscode complete working code, Admin Dashboard, and more...
 - ✨Magic ✨ Happens  ✨!
 
 
